@@ -1,31 +1,42 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ACOMO-FINTECH
+repo: status
+user-agent: ACOMO
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: ACOMO
+    url: $SITE_CORE
+  - name: ACOMO Blog
+    url: $SITE_BLOG
+  - name: ACOMO Ticket
+    url: $SITE_TICKET
+  - name: ACOMO Mail
+    url: $SITE_MAIL
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: ACOMO-status
+  favicon: https://acomo.com.pe/img/acomo-logo-icon.png
+  theme: night
+  metaTags:
+    - name: 'robots'
+      content: 'noindex'
+  cname: status.acomo.com.pe
+  logoUrl: https://acomo.com.pe/img/acomo-logo-landing.png
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: acomo
+      href: http://acomo.com.pe/
+    - title: Blog
+      href: http://blog.acomo.com.pe/
+    - title: Ticket
+      href: http://ticket.acomo.com.pe/
+workflowSchedule:
+  graphs: '0 0 * * *'
+  responseTime: '59 * * * *'
+  staticSite: '0 1 * * *'
+  summary: '0 0 * * *'
+  updateTemplate: '0 0 * * *'
+  updates: '0 3 * * *'
+  uptime: '*/5 * * * *'
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  footer: ACOMO NEGOCIOS FINANCIEROS © 2019 - 2022
