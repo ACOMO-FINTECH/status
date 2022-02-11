@@ -1,6 +1,5 @@
 owner: ACOMO-FINTECH
 repo: status
-user-agent: ACOMO
 
 sites:
   - name: ACOMO
@@ -28,6 +27,7 @@ status-website:
       href: http://blog.acomo.com.pe/
     - title: Ticket
       href: http://ticket.acomo.com.pe/
+ 
 workflowSchedule:
   graphs: '0 0 * * *'
   responseTime: '59 * * * *'
@@ -36,6 +36,7 @@ workflowSchedule:
   updateTemplate: '0 0 * * *'
   updates: '0 3 * * *'
   uptime: '*/5 * * * *'
+
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
