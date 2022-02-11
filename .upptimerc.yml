@@ -19,7 +19,7 @@ status-website:
     - name: 'robots'
       content: 'noindex'
   cname: status.acomo.com.pe
-  logoUrl: https://acomo.com.pe/img/acomo-logo-landing.png
+  logoUrl: https://acomo.com.pe/img/acomo-logo-mini.png
   navbar:
     - title: acomo
       href: http://acomo.com.pe/
