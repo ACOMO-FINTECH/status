@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acomo",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 246,
-    "timeWeek": 250,
+    "timeDay": 248,
+    "timeWeek": 249,
     "timeMonth": 247,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2022-02-24": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ACOMO Blog",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3375,
-    "timeDay": 3184,
-    "timeWeek": 3406,
-    "timeMonth": 3375,
-    "timeYear": 3375,
+    "time": 3378,
+    "timeDay": 3262,
+    "timeWeek": 3422,
+    "timeMonth": 3378,
+    "timeYear": 3378,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 931,
-    "timeWeek": 969,
-    "timeMonth": 986,
-    "timeYear": 986,
+    "time": 985,
+    "timeDay": 920,
+    "timeWeek": 965,
+    "timeMonth": 985,
+    "timeYear": 985,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1416,
-    "timeDay": 1396,
-    "timeWeek": 1431,
-    "timeMonth": 1416,
-    "timeYear": 1416,
+    "time": 1417,
+    "timeDay": 1421,
+    "timeWeek": 1432,
+    "timeMonth": 1417,
+    "timeYear": 1417,
     "dailyMinutesDown": {}
   }
 ]
