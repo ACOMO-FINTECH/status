@@ -58,19 +58,19 @@
     "url": "$SITE_MAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acomo-mail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1216,
-    "timeDay": 1024,
+    "timeDay": 1025,
     "timeWeek": 1038,
     "timeMonth": 1091,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2022-04-08": 2
+      "2022-04-08": 7
     }
   }
 ]
