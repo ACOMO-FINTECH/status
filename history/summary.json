@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 215,
-    "timeDay": 236,
-    "timeWeek": 209,
-    "timeMonth": 200,
+    "timeDay": 218,
+    "timeWeek": 210,
+    "timeMonth": 201,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-04-27": 26
@@ -24,18 +24,20 @@
     "url": "$SITE_BLOG",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acomo-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3394,
-    "timeDay": 5237,
-    "timeWeek": 4125,
-    "timeMonth": 3621,
-    "timeYear": 3394,
-    "dailyMinutesDown": {}
+    "time": 3403,
+    "timeDay": 6059,
+    "timeWeek": 4172,
+    "timeMonth": 3649,
+    "timeYear": 3403,
+    "dailyMinutesDown": {
+      "2022-05-06": 0
+    }
   },
   {
     "name": "ACOMO Ticket",
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 922,
-    "timeDay": 948,
-    "timeWeek": 922,
-    "timeMonth": 875,
+    "timeDay": 936,
+    "timeWeek": 929,
+    "timeMonth": 876,
     "timeYear": 922,
     "dailyMinutesDown": {}
   },
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1205,
-    "timeDay": 1224,
-    "timeWeek": 1203,
-    "timeMonth": 1167,
-    "timeYear": 1205,
+    "time": 1204,
+    "timeDay": 1143,
+    "timeWeek": 1197,
+    "timeMonth": 1168,
+    "timeYear": 1204,
     "dailyMinutesDown": {}
   }
 ]
