@@ -24,19 +24,19 @@
     "url": "$SITE_BLOG",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acomo-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 3403,
-    "timeDay": 6059,
-    "timeWeek": 4172,
-    "timeMonth": 3649,
+    "timeDay": 5938,
+    "timeWeek": 4166,
+    "timeMonth": 3648,
     "timeYear": 3403,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 17
     }
   },
   {
