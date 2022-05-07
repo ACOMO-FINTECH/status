@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 215,
-    "timeDay": 210,
-    "timeWeek": 209,
+    "timeDay": 207,
+    "timeWeek": 211,
     "timeMonth": 201,
     "timeYear": 215,
     "dailyMinutesDown": {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acomo-blog",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
     "time": 3425,
-    "timeDay": 5644,
-    "timeWeek": 4455,
-    "timeMonth": 3716,
+    "timeDay": 5656,
+    "timeWeek": 4457,
+    "timeMonth": 3718,
     "timeYear": 3425,
     "dailyMinutesDown": {
-      "2022-05-06": 66
+      "2022-05-06": 55
     }
   },
   {
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 922,
-    "timeDay": 951,
+    "timeDay": 933,
     "timeWeek": 933,
-    "timeMonth": 877,
+    "timeMonth": 878,
     "timeYear": 922,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1205,
-    "timeDay": 1150,
-    "timeWeek": 1205,
-    "timeMonth": 1172,
+    "timeDay": 1167,
+    "timeWeek": 1209,
+    "timeMonth": 1173,
     "timeYear": 1205,
     "dailyMinutesDown": {}
   }
