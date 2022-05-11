@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 215,
-    "timeDay": 234,
-    "timeWeek": 214,
-    "timeMonth": 202,
+    "timeDay": 199,
+    "timeWeek": 210,
+    "timeMonth": 203,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-04-27": 26
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
-    "time": 3523,
-    "timeDay": 6122,
-    "timeWeek": 5515,
-    "timeMonth": 4051,
-    "timeYear": 3523,
+    "time": 3531,
+    "timeDay": 6344,
+    "timeWeek": 5437,
+    "timeMonth": 4081,
+    "timeYear": 3531,
     "dailyMinutesDown": {
       "2022-05-06": 55
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 983,
-    "timeWeek": 982,
-    "timeMonth": 899,
-    "timeYear": 926,
+    "time": 933,
+    "timeDay": 1646,
+    "timeWeek": 1076,
+    "timeMonth": 923,
+    "timeYear": 933,
     "dailyMinutesDown": {}
   },
   {
@@ -62,18 +62,19 @@
     "url": "$SITE_MAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acomo-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1198,
-    "timeDay": 1085,
-    "timeWeek": 1102,
-    "timeMonth": 1177,
-    "timeYear": 1198,
+    "time": 1197,
+    "timeDay": 1064,
+    "timeWeek": 1092,
+    "timeMonth": 1176,
+    "timeYear": 1197,
     "dailyMinutesDown": {
+      "2022-05-11": 2,
       "2022-05-07": 20
     }
   }
