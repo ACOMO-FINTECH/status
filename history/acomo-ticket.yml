@@ -1,7 +1,7 @@
 url: $SITE_TICKET
-status: down
-code: 521
-responseTime: 213
-lastUpdated: 2022-11-19T07:25:45.940Z
+status: up
+code: 200
+responseTime: 6077
+lastUpdated: 2022-11-19T07:35:07.275Z
 startTime: Fri Feb 11 2022 05:02:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
