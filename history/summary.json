@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 266,
-    "timeDay": 220,
-    "timeWeek": 237,
-    "timeMonth": 268,
+    "timeDay": 241,
+    "timeWeek": 238,
+    "timeMonth": 262,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2022-11-26": 24,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.41%",
-    "time": 3858,
-    "timeDay": 4627,
-    "timeWeek": 3962,
-    "timeMonth": 3922,
-    "timeYear": 3830,
+    "time": 3854,
+    "timeDay": 3762,
+    "timeWeek": 3965,
+    "timeMonth": 3923,
+    "timeYear": 3826,
     "dailyMinutesDown": {
       "2023-03-29": 32,
       "2023-03-28": 1440,
@@ -55,8 +55,7 @@
       "2022-07-12": 16,
       "2022-06-30": 121,
       "2022-06-21": 15,
-      "2022-05-18": 28,
-      "2022-05-12": 20
+      "2022-05-18": 28
     }
   },
   {
@@ -70,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
-    "time": 1031,
-    "timeDay": 1128,
-    "timeWeek": 1119,
-    "timeMonth": 1149,
-    "timeYear": 1032,
+    "time": 1032,
+    "timeDay": 1208,
+    "timeWeek": 1131,
+    "timeMonth": 1154,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-03-29": 32,
       "2023-03-28": 1440,
@@ -90,8 +89,7 @@
       "2022-08-16": 17,
       "2022-07-30": 22,
       "2022-06-30": 121,
-      "2022-05-18": 27,
-      "2022-05-12": 19
+      "2022-05-18": 27
     }
   },
   {
@@ -100,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "47.04%",
+    "uptime": "46.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "34.16%",
-    "time": 1093,
+    "uptimeYear": "33.89%",
+    "time": 1092,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-05-11": 65,
+      "2023-05-12": 65,
+      "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
