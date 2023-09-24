@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 219,
-    "timeWeek": 245,
+    "timeDay": 213,
+    "timeWeek": 240,
     "timeMonth": 252,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.45%",
-    "time": 3752,
-    "timeDay": 3682,
-    "timeWeek": 3766,
-    "timeMonth": 3805,
-    "timeYear": 3743,
+    "time": 3751,
+    "timeDay": 3633,
+    "timeWeek": 3792,
+    "timeMonth": 3804,
+    "timeYear": 3742,
     "dailyMinutesDown": {
       "2023-09-14": 34,
       "2023-09-13": 21,
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.46%",
-    "time": 1050,
-    "timeDay": 1137,
-    "timeWeek": 1123,
+    "time": 1049,
+    "timeDay": 1074,
+    "timeWeek": 1118,
     "timeMonth": 1118,
-    "timeYear": 1049,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-09-14": 34,
       "2023-09-13": 20,
@@ -95,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "36.26%",
+    "uptime": "36.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -106,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-23": 55,
+      "2023-09-24": 58,
+      "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
@@ -469,8 +470,7 @@
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
-      "2022-09-25": 1440,
-      "2022-09-24": 1440
+      "2022-09-25": 1440
     }
   }
 ]
