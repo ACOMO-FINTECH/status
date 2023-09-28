@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 221,
-    "timeWeek": 230,
+    "timeDay": 218,
+    "timeWeek": 225,
     "timeMonth": 253,
     "timeYear": 260,
     "dailyMinutesDown": {
@@ -26,17 +26,16 @@
     "slug": "acomo-blog",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.45%",
-    "time": 3749,
-    "timeDay": 4712,
-    "timeWeek": 3982,
-    "timeMonth": 3849,
-    "timeYear": 3744,
+    "time": 3750,
+    "timeDay": 4686,
+    "timeWeek": 3966,
+    "timeMonth": 3851,
+    "timeYear": 3743,
     "dailyMinutesDown": {
-      "2023-09-27": 7,
       "2023-09-14": 34,
       "2023-09-13": 21,
       "2023-09-07": 21,
@@ -68,9 +67,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.46%",
     "time": 1051,
-    "timeDay": 1194,
-    "timeWeek": 1180,
-    "timeMonth": 1143,
+    "timeDay": 1216,
+    "timeWeek": 1167,
+    "timeMonth": 1145,
     "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-09-14": 34,
@@ -96,7 +95,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "35.99%",
+    "uptime": "35.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -107,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 715,
+      "2023-09-28": 55,
+      "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -470,8 +470,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   }
 ]
