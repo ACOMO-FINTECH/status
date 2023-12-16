@@ -1,7 +1,7 @@
 url: $SITE_TICKET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-16T12:00:54.224Z
+status: up
+code: 200
+responseTime: 3312
+lastUpdated: 2023-12-16T12:24:52.178Z
 startTime: 2022-02-11T05:02:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
