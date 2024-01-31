@@ -4,19 +4,19 @@
     "url": "$SITE_CORE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 251,
-    "timeWeek": 219,
+    "timeDay": 247,
+    "timeWeek": 218,
     "timeMonth": 233,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-01-31": 0
+      "2024-01-31": 8
     }
   },
   {
@@ -28,7 +28,7 @@
     "uptime": "96.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.08%",
+    "uptimeMonth": "45.07%",
     "uptimeYear": "93.76%",
     "time": 3888,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 4036,
     "timeYear": 3895,
     "dailyMinutesDown": {
-      "2024-01-31": 1159,
+      "2024-01-31": 1166,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -105,7 +105,7 @@
     "uptime": "96.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.14%",
+    "uptimeMonth": "45.12%",
     "uptimeYear": "93.83%",
     "time": 1135,
     "timeDay": 0,
@@ -113,7 +113,7 @@
     "timeMonth": 1169,
     "timeYear": 1140,
     "dailyMinutesDown": {
-      "2024-01-31": 1159,
+      "2024-01-31": 1167,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -178,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-31": 1160,
+      "2024-01-31": 1167,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
