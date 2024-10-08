@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 304,
-    "timeWeek": 317,
+    "timeDay": 296,
+    "timeWeek": 288,
     "timeMonth": 295,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "up",
-    "uptime": "82.92%",
+    "uptime": "82.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "56.31%",
-    "time": 2518,
-    "timeDay": 973,
-    "timeWeek": 870,
-    "timeMonth": 862,
-    "timeYear": 2484,
+    "time": 2502,
+    "timeDay": 847,
+    "timeWeek": 873,
+    "timeMonth": 860,
+    "timeYear": 2470,
     "dailyMinutesDown": {
       "2024-07-11": 157,
       "2024-07-10": 115,
@@ -219,8 +219,7 @@
       "2023-10-22": 15,
       "2023-10-20": 36,
       "2023-10-19": 36,
-      "2023-10-15": 20,
-      "2023-10-09": 27
+      "2023-10-15": 20
     }
   },
   {
@@ -229,18 +228,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "71.91%",
+    "uptime": "71.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.05%",
-    "time": 1259,
+    "uptimeYear": "26.78%",
+    "time": 1260,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2024-10-07": 75,
+      "2024-10-08": 73,
+      "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -530,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "22.04%",
+    "uptime": "22.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -541,7 +541,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-07": 75,
+      "2024-10-08": 74,
+      "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -904,8 +905,7 @@
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
-      "2023-10-10": 1440,
-      "2023-10-09": 1440
+      "2023-10-10": 1440
     }
   }
 ]
