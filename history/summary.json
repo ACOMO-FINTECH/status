@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 295,
-    "timeWeek": 278,
-    "timeMonth": 294,
+    "timeDay": 250,
+    "timeWeek": 271,
+    "timeMonth": 293,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2024-04-12": 73
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "up",
-    "uptime": "83.31%",
+    "uptime": "83.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "56.34%",
-    "time": 2166,
-    "timeDay": 849,
-    "timeWeek": 796,
-    "timeMonth": 845,
-    "timeYear": 2124,
+    "time": 2151,
+    "timeDay": 765,
+    "timeWeek": 793,
+    "timeMonth": 842,
+    "timeYear": 2109,
     "dailyMinutesDown": {
       "2024-10-23": 17,
       "2024-07-11": 157,
@@ -215,8 +215,7 @@
       "2023-11-18": 25,
       "2023-11-17": 40,
       "2023-11-06": 35,
-      "2023-11-03": 39,
-      "2023-11-01": 27
+      "2023-11-03": 39
     }
   },
   {
@@ -225,18 +224,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "70.24%",
+    "uptime": "70.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "20.77%",
-    "time": 1259,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "20.49%",
+    "time": 1260,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1264,
+    "timeYear": 1266,
     "dailyMinutesDown": {
-      "2024-10-30": 74,
+      "2024-10-31": 75,
+      "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -547,10 +547,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "21.53%",
+    "uptime": "21.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -558,7 +558,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-30": 74,
+      "2024-10-31": 75,
+      "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -921,8 +922,7 @@
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
-      "2023-11-02": 1440,
-      "2023-11-01": 1440
+      "2023-11-02": 1440
     }
   }
 ]
