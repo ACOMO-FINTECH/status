@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
-    "timeDay": 253,
-    "timeWeek": 274,
-    "timeMonth": 284,
-    "timeYear": 252,
+    "timeDay": 309,
+    "timeWeek": 280,
+    "timeMonth": 286,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2024-04-12": 73
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "up",
-    "uptime": "83.51%",
-    "uptimeDay": "47.05%",
+    "uptime": "83.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.09%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "56.17%",
-    "time": 1933,
-    "timeDay": 946,
-    "timeWeek": 820,
+    "time": 1916,
+    "timeDay": 883,
+    "timeWeek": 838,
     "timeMonth": 821,
-    "timeYear": 1875,
+    "timeYear": 1861,
     "dailyMinutesDown": {
       "2024-11-14": 840,
       "2024-11-13": 160,
@@ -214,8 +214,7 @@
       "2023-11-25": 24,
       "2023-11-21": 26,
       "2023-11-19": 36,
-      "2023-11-18": 25,
-      "2023-11-17": 40
+      "2023-11-18": 25
     }
   },
   {
@@ -224,18 +223,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "69.13%",
+    "uptime": "69.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.40%",
-    "time": 1273,
+    "uptimeYear": "16.12%",
+    "time": 1270,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1278,
+    "timeYear": 1277,
     "dailyMinutesDown": {
-      "2024-11-15": 77,
+      "2024-11-16": 76,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -550,8 +550,7 @@
       "2023-12-09": 19,
       "2023-11-28": 23,
       "2023-11-25": 23,
-      "2023-11-19": 34,
-      "2023-11-17": 28
+      "2023-11-19": 34
     }
   },
   {
@@ -560,7 +559,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "21.18%",
+    "uptime": "21.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -571,7 +570,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-15": 78,
+      "2024-11-16": 76,
+      "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
@@ -934,8 +934,7 @@
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
-      "2023-11-18": 1440,
-      "2023-11-17": 1440
+      "2023-11-18": 1440
     }
   }
 ]
