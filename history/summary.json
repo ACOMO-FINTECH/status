@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 263,
-    "timeDay": 344,
-    "timeWeek": 292,
-    "timeMonth": 283,
+    "time": 264,
+    "timeDay": 283,
+    "timeWeek": 289,
+    "timeMonth": 282,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-01-03": 21,
@@ -26,14 +26,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "up",
-    "uptime": "84.56%",
+    "uptime": "84.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "58.42%",
+    "uptimeYear": "58.70%",
     "time": 857,
-    "timeDay": 961,
-    "timeWeek": 871,
+    "timeDay": 875,
+    "timeWeek": 872,
     "timeMonth": 873,
     "timeYear": 857,
     "dailyMinutesDown": {
@@ -191,8 +191,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -201,7 +200,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "64.70%",
+    "uptime": "64.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -212,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-23": 72,
+      "2025-01-24": 72,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -575,8 +575,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -585,7 +584,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "19.83%",
+    "uptime": "19.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -596,7 +595,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-23": 72,
+      "2025-01-24": 72,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -959,8 +959,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   }
 ]
