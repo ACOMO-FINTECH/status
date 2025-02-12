@@ -10,10 +10,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 266,
-    "timeDay": 237,
-    "timeWeek": 266,
-    "timeMonth": 292,
+    "time": 267,
+    "timeDay": 307,
+    "timeWeek": 273,
+    "timeMonth": 293,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-02-06": 18,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "down",
-    "uptime": "84.64%",
-    "uptimeDay": "32.27%",
-    "uptimeWeek": "69.71%",
-    "uptimeMonth": "93.03%",
+    "uptime": "84.56%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "55.42%",
+    "uptimeMonth": "89.74%",
     "uptimeYear": "63.05%",
     "time": 860,
-    "timeDay": 971,
-    "timeWeek": 876,
+    "timeDay": 0,
+    "timeWeek": 880,
     "timeMonth": 895,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-02-11": 72,
+      "2025-02-12": 73,
+      "2025-02-11": 1440,
       "2025-02-10": 976,
       "2025-02-09": 1440,
       "2025-02-08": 565,
@@ -177,8 +178,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -187,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "63.58%",
+    "uptime": "63.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -198,7 +198,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 73,
+      "2025-02-12": 73,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -561,8 +562,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -571,7 +571,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "19.48%",
+    "uptime": "19.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -582,7 +582,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 73,
+      "2025-02-12": 74,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -945,8 +946,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   }
 ]
