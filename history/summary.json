@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 311,
-    "timeDay": 352,
-    "timeWeek": 327,
-    "timeMonth": 315,
+    "timeDay": 267,
+    "timeWeek": 298,
+    "timeMonth": 313,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2025-04-24": 16,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "down",
-    "uptime": "73.16%",
+    "uptime": "73.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.09%",
+    "uptimeYear": "51.82%",
     "time": 863,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 864,
     "dailyMinutesDown": {
-      "2025-08-02": 98,
+      "2025-08-03": 110,
+      "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -227,7 +228,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "54.95%",
+    "uptime": "54.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -238,7 +239,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 99,
+      "2025-08-03": 111,
+      "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -601,8 +603,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   },
   {
@@ -611,7 +612,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "16.84%",
+    "uptime": "16.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -622,7 +623,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-02": 99,
+      "2025-08-03": 111,
+      "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
@@ -985,8 +987,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   }
 ]
