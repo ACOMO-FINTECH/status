@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 322,
-    "timeDay": 303,
-    "timeWeek": 315,
-    "timeMonth": 315,
+    "time": 323,
+    "timeDay": 304,
+    "timeWeek": 319,
+    "timeMonth": 314,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2025-04-24": 16,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "down",
-    "uptime": "68.56%",
+    "uptime": "68.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.81%",
-    "time": 868,
+    "uptimeYear": "28.54%",
+    "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 871,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-10-26": 86,
+      "2025-10-27": 88,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -311,7 +312,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "51.50%",
+    "uptime": "51.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -322,7 +323,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 86,
+      "2025-10-27": 88,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -685,8 +687,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -695,7 +696,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "15.78%",
+    "uptime": "15.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -706,7 +707,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 87,
+      "2025-10-27": 89,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1069,8 +1071,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   }
 ]
