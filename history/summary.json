@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 339,
-    "timeDay": 412,
-    "timeWeek": 537,
-    "timeMonth": 438,
-    "timeYear": 339,
+    "timeDay": 329,
+    "timeWeek": 546,
+    "timeMonth": 440,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-11-18": 170,
       "2025-04-24": 16,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-blog",
     "status": "down",
-    "uptime": "63.88%",
+    "uptime": "63.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.88%",
-    "time": 907,
+    "uptimeYear": "1.60%",
+    "time": 897,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 875,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2026-02-02": 124,
+      "2026-02-03": 123,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -407,7 +408,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-ticket",
     "status": "down",
-    "uptime": "47.99%",
+    "uptime": "47.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +419,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 125,
+      "2026-02-03": 123,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -781,8 +783,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -791,7 +792,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo-mail",
     "status": "down",
-    "uptime": "14.70%",
+    "uptime": "14.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -802,7 +803,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 125,
+      "2026-02-03": 123,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -1165,8 +1167,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   }
 ]
