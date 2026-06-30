@@ -4,21 +4,21 @@
     "url": "$SITE_CORE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acomo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 350,
-    "timeDay": 229,
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.94%",
+    "time": 351,
+    "timeDay": 270,
     "timeWeek": 357,
-    "timeMonth": 336,
+    "timeMonth": 335,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-11-18": 170,
       "2026-04-20": 31,
-      "2026-06-30": 1
+      "2026-06-30": 117
     }
   },
   {
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 964,
+      "2026-06-30": 1081,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 965,
+      "2026-06-30": 1082,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
@@ -806,7 +806,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 965,
+      "2026-06-30": 1083,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
